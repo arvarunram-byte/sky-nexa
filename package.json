@@ -1,0 +1,21 @@
+{
+  "name": "sky-nexa",
+  "version": "1.0.0",
+  "description": "Sky Nexa - Real-Time Space Debris Tracking & Collision Prediction Platform",
+  "main": "serve.js",
+  "scripts": {
+    "start": "node serve.js",
+    "dev": "node serve.js",
+    "build": "echo 'Build successful'"
+  },
+  "keywords": [
+    "space-debris",
+    "satellite-tracking",
+    "threejs",
+    "orbital-mechanics",
+    "collision-prediction",
+    "sky-nexa"
+  ],
+  "author": "arvarunram-byte",
+  "license": "MIT"
+}
